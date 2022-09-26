@@ -1,0 +1,12 @@
+.btn-primary {
+    background-color: #D7AB11;
+}
+
+.btn-primary:hover {
+    background-color: #f7c305;
+}
+
+footer.footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
