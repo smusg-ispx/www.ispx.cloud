@@ -1,9 +1,11 @@
 .btn-primary {
     background-color: #D7AB11;
+    border-color: unset;
 }
 
 .btn-primary:hover {
     background-color: #f7c305;
+    border-color: unset;
 }
 
 footer.footer {
